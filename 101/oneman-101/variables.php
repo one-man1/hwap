@@ -21,3 +21,4 @@
 $welcome_1 = " welcome in hour withe programmer ";
 
 echo "$welcome_1";
+print "hello im one man <br>";
