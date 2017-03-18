@@ -32,7 +32,7 @@ echo "<h2> Example :- </h2>";
 echo "<ul><li><h4>String Result</h4></li></ul>";
 $x = "Hour with a programmer";
 $y = 'Hour with a programmer ';
-
+echo "<br>";
 echo $x;
 echo "<br>";
 echo $y;
@@ -68,7 +68,7 @@ Integers can be specified in three formats: decimal (10-based), hexadecimal (16-
 // Example
 
 #The PHP var_dump() function returns the data type and value لجلب نوع القيمة التي قمنا باستخدامها var_dump()   سنستخدم دالة
-echo "<ul><li>Integer Result</li></ul>";
+echo "<ul><li><h4>Integer Result</h4></li></ul>";
 $varInt= 12345;
 var_dump($varInt);
 echo "<br>";
@@ -83,7 +83,7 @@ echo "<br>";
 
  */
 // Example
-echo "<ul><li>float Result</li></ul>";
+echo "<ul><li><h4>float Result</h4></li></ul>";
 $varFloat =123.765;
 var_dump($varFloat);
 echo "<br>";
@@ -96,7 +96,7 @@ echo "<br>";
   تمثل قيمتين منطقيتين وهما :صح او خطأ
 
  */// Example
-echo "<ul><li>Boolean Result</li></ul>";
+echo "<ul><li><h4>Boolean Result</h4></li></ul>";
 $varBoolean = true;
 var_dump($varBoolean);
 echo "<br>";
@@ -109,7 +109,7 @@ echo "<br>";
 تعرف على انها تخزين لمجموعة من القيم في متغير واحد
  */
 // Example
-echo "<ul><li>Array Result</li></ul>";
+echo "<ul><li><h4>Array Result</h4></li></ul>";
 $varArray = array("val 1","val 2","val 3 ");
 var_dump($varArray);
 echo "<br>";
@@ -123,7 +123,7 @@ An object is a data type which stores data and information on how to process tha
  */
 
 // Example
-echo "<ul><li>Object Result</li></ul>";
+echo "<ul><li><h4>Object Result</h4></li></ul>";
 class Car {
     function Car() {
         $this->model = "Toyota";
@@ -153,7 +153,7 @@ Variables can also be emptied by setting the value to NULL
 
  */
 // Example
-echo "<ul><li>Null Result</li></ul>";
+echo "<ul><li><h4>Null Result</h4></li></ul>";
 $var1 = "Hour with a programmer ";
 $var1 = null;
 var_dump($var1);
