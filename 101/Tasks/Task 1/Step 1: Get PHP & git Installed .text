@@ -1,4 +1,0 @@
-Step 1 Homework: Get PHP 7, the latest version at the time of this recording, installed on your machine using one of the methods outlined above. You might use Homebrew on the Mac, or possibly MAMP, WAMP, or XAMPP. Any of these options will do just fine. To confirm that you've completed the homework, open the command line, and run php -v. Does it say PHP 7? Congrats!
-
-Step 2 Homework: Get git, the latest version at the time of this recording, installed on your machine download link : 
-https://git-scm.com/downloads
