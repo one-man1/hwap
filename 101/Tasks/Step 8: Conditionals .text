@@ -1,0 +1,13 @@
+Homework: Continue tinkering with conditionals. Add a new boolean to your task array, and use its value to branch off into two different paths within your HTML.
+
+
+Note : after done with task do :
+
+git pull
+git branch <task number + your name>
+git checkout  <task number + your name>
+< add task file >
+git add <file name >
+git commit --all -m"<message>""
+git push
+make PR
