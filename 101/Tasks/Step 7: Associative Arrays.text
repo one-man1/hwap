@@ -1,0 +1,13 @@
+Homework: Create an associative array for a task. This array should include such details as the title of the task, its due date, who it's assigned to, and whether it has been completed.
+
+
+Note : after done with task do :
+
+git pull
+git branch <task number + your name>
+git checkout  <task number + your name>
+< add task file >
+git add <file name >
+git commit --all -m"<message>""
+git push
+make PR

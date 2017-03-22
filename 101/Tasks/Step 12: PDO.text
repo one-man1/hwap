@@ -1,0 +1,25 @@
+Homework:
+
+1 - Connection database .
+
+2 - insert .
+
+3 - select .
+
+4 - update .
+
+5 - delete .
+
+
+
+
+Note : after done with task do :
+
+git pull
+git branch <task number + your name>
+git checkout  <task number + your name>
+< add task file >
+git add <file name >
+git commit --all -m"<message>""
+git push
+make PR

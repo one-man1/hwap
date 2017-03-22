@@ -1,0 +1,13 @@
+Homework: Write a function that determines if a provided age (sent through as an argument) is old enough to enter a 21-and-up night club. Have this function return a boolean, which can be used in any conditional.
+
+
+Note : after done with task do :
+
+git pull
+git branch <task number + your name>
+git checkout  <task number + your name>
+< add task file >
+git add <file name >
+git commit --all -m"<message>""
+git push
+make PR
